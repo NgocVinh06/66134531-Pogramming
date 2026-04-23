@@ -18,7 +18,7 @@ public class toaDoHCN {
 		//b
 		double chieuDai = Math.abs(x2 - x1);
 		double chieuRong = Math.abs(y2 - y1);
-		
+		//kiem tra
 		if(chieuDai == 0 || chieuRong == 0) {
 			System.out.println("không phải hcn hợp lệ");
 		}
